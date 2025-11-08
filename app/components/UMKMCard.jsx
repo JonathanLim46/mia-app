@@ -4,8 +4,8 @@ import { Star, MapPin, Clock4 } from "lucide-react";
 
 function UMKMCard({ category, title, description, rating, city, time }) {
     return (
-        <div className="rounded-xl w-60 bg-white pb-4">
-            <div className="relative overflow-hidden rounded-xl">
+        <div className="rounded-xl w-40 md:w-60 bg-white pb-4">
+            <div className="relative overflow-hidden rounded-t-xl">
                 <Image
                     width={200}
                     height={300}

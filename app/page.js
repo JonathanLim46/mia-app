@@ -9,16 +9,16 @@ export default function Home() {
       <Hero />
       <UMKMDiscovery />
       <section className="mt-20 flex flex-col justify-center items-center">
-        <h3 className="font-bold text-6xl gradient-text text-center">Berita UMKM</h3>
-        <div className="flex flex-row gap-16 mt-12">
+        <h3 className="font-bold text-4xl md:text-6xl gradient-text text-center">Berita UMKM</h3>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-16 mt-12">
           <NewsCard />
           <NewsCard />
           <NewsCard />
         </div>
       </section>
       <section className="mt-16 h-64 flex flex-col gap-8 justify-center items-center">
-        <h4 className="font-bold text-5xl text-white text-center">Dukung UMKM, Belanja UMKM, Cintai UMKM.</h4>
-        <p className="text-white text-3xl">Setiap pembelianmu membawa dampak nyata</p>
+        <h4 className="font-bold text-3xl md:text-5xl text-white text-center">Dukung UMKM, Belanja UMKM, Cintai UMKM.</h4>
+        <p className="text-white text-xl md:text-3xl text-center">Setiap pembelianmu membawa dampak nyata</p>
       </section>
       <ImageCarousel />
     </div>

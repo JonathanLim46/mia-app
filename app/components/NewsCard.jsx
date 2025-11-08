@@ -5,7 +5,7 @@ import { MapPin } from "lucide-react";
 function NewsCard() {
     return (
         <div className="rounded-xl w-60 bg-white pb-4">
-            <div className="relative overflow-hidden rounded-xl">
+            <div className="relative overflow-hidden rounded-t-xl">
                 <Image
                     width={200}
                     height={300}

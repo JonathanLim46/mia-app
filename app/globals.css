@@ -17,7 +17,11 @@ body {
   background: linear-gradient(98deg, #FF0088, #FFB200);
 }
 
-.gradient-background:hover {
+.gradient-background-button {
+  background: linear-gradient(98deg, #FF0088, #FFB200);
+}
+
+.gradient-background-button:hover {
   background: linear-gradient(98deg, #aa035c, #d69601);
 }
 

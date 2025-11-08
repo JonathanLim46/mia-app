@@ -20,7 +20,7 @@ function UMKMDiscovery() {
 
     return (
         <section className="mt-32 flex flex-col justify-center items-center">
-            <h3 className="font-bold text-6xl gradient-text text-center">Temukan UMKM</h3>
+            <h3 className="font-bold text-4xl md:text-6xl gradient-text text-center">Temukan UMKM</h3>
             <SearchBar
                 onSearch={(e) => setOnSearch(e)}
             />
@@ -29,7 +29,7 @@ function UMKMDiscovery() {
             />
             <div className="flex flex-col justify-center mt-8">
                 <h3 className="font-semibold text-xl text-center text-white">{dataUMKM.length} UMKM Ditemukan</h3>
-                <div className="grid grid-cols-3 gap-8 mt-8">
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-8 mt-8">
                     {dataUMKM.map((item, index) => (
                         <UMKMCard
                             key={index}
