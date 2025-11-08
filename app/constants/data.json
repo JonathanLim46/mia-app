@@ -1,0 +1,273 @@
+[
+    {
+        "nama": "Warung Nasi Julaeha",
+        "kategori": "Makanan",
+        "lokasi": {
+            "kota": "Jakarta",
+            "alamat": "Jl. Kemanggisan Raya No.45, Palmerah, Jakarta Barat"
+        },
+        "deskripsi": "Warung legendaris dengan menu nasi uduk dan lauk rumahan khas Betawi.",
+        "kisah_umkm": "Berawal dari usaha keluarga kecil pada tahun 1998, kini Warung Nasi Julaeha menjadi favorit warga sekitar karena cita rasanya yang autentik.",
+        "galeri": [
+            "/images/nasi_julaeha_1.jpg",
+            "/images/nasi_julaeha_2.jpg",
+            "/images/nasi_julaeha_3.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Nasi Uduk Komplit",
+                "deskripsi": "Nasi uduk gurih lengkap dengan ayam goreng, tempe orek, dan sambal terasi.",
+                "harga": 25000,
+                "image": "/images/menu_nasi_uduk.jpg"
+            },
+            {
+                "nama": "Ayam Goreng Lengkuas",
+                "deskripsi": "Ayam goreng dengan taburan lengkuas renyah.",
+                "harga": 18000,
+                "image": "/images/menu_ayam_lengkuas.jpg"
+            }
+        ],
+        "rating": 4.8,
+        "jam_operasional": {
+            "buka": "06:00",
+            "tutup": "21:00"
+        }
+    },
+    {
+        "nama": "Bakso Pak Darto",
+        "kategori": "Makanan",
+        "lokasi": {
+            "kota": "Bandung",
+            "alamat": "Jl. Dipatiukur No.23, Bandung"
+        },
+        "deskripsi": "Bakso urat khas Malang dengan kuah kaldu gurih.",
+        "kisah_umkm": "Pak Darto merantau dari Malang ke Bandung dan membawa resep turun-temurun keluarga untuk membuka usaha bakso pada tahun 2010.",
+        "galeri": [
+            "/images/bakso_darto_1.jpg",
+            "/images/bakso_darto_2.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Bakso Urat Super",
+                "deskripsi": "Bakso urat besar dengan tambahan mie dan tahu.",
+                "harga": 20000,
+                "image": "/images/menu_bakso_urat.jpg"
+            }
+        ],
+        "rating": 4.7,
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "22:00"
+        }
+    },
+    {
+        "nama": "Roti Bakar Jaya",
+        "kategori": "Makanan",
+        "lokasi": {
+            "kota": "Depok",
+            "alamat": "Jl. Margonda Raya No.75, Depok"
+        },
+        "deskripsi": "Roti bakar modern dengan topping kekinian.",
+        "kisah_umkm": "Dua sahabat membuka kios kecil di pinggir jalan pada tahun 2015 dan kini memiliki tiga cabang di Depok.",
+        "galeri": [
+            "/images/roti_jaya_1.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Roti Bakar Coklat Keju",
+                "deskripsi": "Roti tebal dengan isian coklat lumer dan keju parut melimpah.",
+                "harga": 22000,
+                "image": "/images/menu_roti_coklat_keju.jpg"
+            }
+        ],
+        "rating": 4.6,
+        "jam_operasional": {
+            "buka": "16:00",
+            "tutup": "23:30"
+        }
+    },
+    {
+        "nama": "Es Kopi Sore",
+        "kategori": "Minuman",
+        "lokasi": {
+            "kota": "Yogyakarta",
+            "alamat": "Jl. Kaliurang KM 5, Sleman, Yogyakarta"
+        },
+        "deskripsi": "Kopi susu kekinian dengan cita rasa lokal.",
+        "kisah_umkm": "Bermula dari garasi rumah, Es Kopi Sore kini jadi salah satu brand kopi lokal yang digemari anak muda Yogya.",
+        "galeri": [
+            "/images/es_kopi_sore_1.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Es Kopi Gula Aren",
+                "deskripsi": "Campuran espresso, susu segar, dan gula aren alami.",
+                "harga": 18000,
+                "image": "/images/menu_kopi_gula_aren.jpg"
+            }
+        ],
+        "rating": 4.9,
+        "jam_operasional": {
+            "buka": "09:00",
+            "tutup": "22:00"
+        }
+    },
+    {
+        "nama": "Wedangan Mbah Karto",
+        "kategori": "Minuman",
+        "lokasi": {
+            "kota": "Solo",
+            "alamat": "Jl. Slamet Riyadi No.110, Surakarta"
+        },
+        "deskripsi": "Tempat nongkrong khas Jawa dengan aneka minuman tradisional.",
+        "kisah_umkm": "Usaha ini dirintis Mbah Karto sejak 1980, mempertahankan rasa jamu dan wedang khas keraton.",
+        "galeri": [
+            "/images/wedangan_karto_1.jpg",
+            "/images/wedangan_karto_2.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Wedang Jahe",
+                "deskripsi": "Minuman hangat dari jahe segar dan gula batu.",
+                "harga": 10000,
+                "image": "/images/menu_wedang_jahe.jpg"
+            }
+        ],
+        "rating": 4.8,
+        "jam_operasional": {
+            "buka": "17:00",
+            "tutup": "00:00"
+        }
+    },
+    {
+        "nama": "Susu Segar Lembang",
+        "kategori": "Minuman",
+        "lokasi": {
+            "kota": "Lembang",
+            "alamat": "Jl. Raya Lembang No.15, Bandung Barat"
+        },
+        "deskripsi": "Produk susu segar alami dari peternakan lokal.",
+        "kisah_umkm": "UMKM ini berawal dari keluarga peternak sapi perah yang ingin menyediakan susu sehat tanpa pengawet.",
+        "galeri": [
+            "/images/susu_lembang_1.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Susu Murni Coklat",
+                "deskripsi": "Susu segar dicampur bubuk coklat asli tanpa bahan tambahan.",
+                "harga": 15000,
+                "image": "/images/menu_susu_coklat.jpg"
+            }
+        ],
+        "rating": 4.7,
+        "jam_operasional": {
+            "buka": "07:00",
+            "tutup": "20:00"
+        }
+    },
+    {
+        "nama": "Laundry Bersih Abadi",
+        "kategori": "Jasa",
+        "lokasi": {
+            "kota": "Bekasi",
+            "alamat": "Jl. Pekayon No.22, Bekasi Selatan"
+        },
+        "deskripsi": "Jasa laundry kiloan dengan pelayanan antar jemput.",
+        "kisah_umkm": "Dibangun oleh pasangan muda pada tahun 2018 dengan konsep layanan cepat dan ramah lingkungan.",
+        "galeri": [
+            "/images/laundry_abadi_1.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Laundry Kiloan",
+                "deskripsi": "Cuci, kering, dan setrika dalam waktu 24 jam.",
+                "harga": 8000,
+                "image": "/images/menu_laundry.jpg"
+            }
+        ],
+        "rating": 4.6,
+        "jam_operasional": {
+            "buka": "08:00",
+            "tutup": "21:00"
+        }
+    },
+    {
+        "nama": "Cuci Mobil Kilat",
+        "kategori": "Jasa",
+        "lokasi": {
+            "kota": "Semarang",
+            "alamat": "Jl. Pandanaran No.90, Semarang"
+        },
+        "deskripsi": "Layanan cuci mobil cepat dan bersih dalam 15 menit.",
+        "kisah_umkm": "Didirikan tahun 2016 oleh tiga remaja lulusan SMK otomotif yang ingin membuka lapangan kerja baru.",
+        "galeri": [
+            "/images/cuci_mobil_1.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Cuci Ekspres",
+                "deskripsi": "Cuci mobil luar dan dalam dengan waktu 15 menit.",
+                "harga": 25000,
+                "image": "/images/menu_cuci_ekspres.jpg"
+            }
+        ],
+        "rating": 4.5,
+        "jam_operasional": {
+            "buka": "08:00",
+            "tutup": "18:00"
+        }
+    },
+    {
+        "nama": "Barber Gentlemen",
+        "kategori": "Jasa",
+        "lokasi": {
+            "kota": "Medan",
+            "alamat": "Jl. Iskandar Muda No.60, Medan Baru"
+        },
+        "deskripsi": "Barbershop modern dengan konsep vintage dan pelayanan premium.",
+        "kisah_umkm": "Didirikan oleh mantan kapster profesional yang ingin membawa pengalaman barbershop Eropa ke Medan.",
+        "galeri": [
+            "/images/barber_gentlemen_1.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Gentle Cut",
+                "deskripsi": "Pangkas rambut klasik dengan layanan pijat kepala.",
+                "harga": 40000,
+                "image": "/images/menu_gentle_cut.jpg"
+            }
+        ],
+        "rating": 4.9,
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "21:00"
+        }
+    },
+    {
+        "nama": "Foto Studio Lensa Kita",
+        "kategori": "Jasa",
+        "lokasi": {
+            "kota": "Surabaya",
+            "alamat": "Jl. Raya Darmo No.70, Surabaya"
+        },
+        "deskripsi": "Studio foto profesional untuk kebutuhan personal dan bisnis.",
+        "kisah_umkm": "Lensa Kita berdiri tahun 2012 dengan tujuan menghadirkan jasa fotografi berkualitas dengan harga terjangkau.",
+        "galeri": [
+            "/images/lensa_kita_1.jpg",
+            "/images/lensa_kita_2.jpg"
+        ],
+        "menu": [
+            {
+                "nama": "Foto Produk",
+                "deskripsi": "Layanan foto produk e-commerce dan katalog dengan lighting profesional.",
+                "harga": 100000,
+                "image": "/images/menu_foto_produk.jpg"
+            }
+        ],
+        "rating": 4.8,
+        "jam_operasional": {
+            "buka": "09:00",
+            "tutup": "20:00"
+        }
+    }
+]
