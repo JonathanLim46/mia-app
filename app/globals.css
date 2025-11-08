@@ -25,4 +25,18 @@ body {
   background: linear-gradient(98deg, #FBFF00, #FF5E00);
 }
 
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 25s linear infinite;
+}
+
+
 
