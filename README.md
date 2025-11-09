@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MIA - Web App UMKM Bogor
 
-## Getting Started
+A web application based on **Next.js 14** that aims to introduce and promote various **MSMEs (Micro, Small, and Medium Enterprises)** in Bogor.  This project was built with a **modern web development** approach using React, Tailwind CSS, and modular components.
 
-First, run the development server:
+## Features
+
+- **MSME Search** by category and keyword.
+- **MSME Details** with descriptions, stories, and operating hours.
+- **Responsive Display** for all screen sizes.
+
+## TechStack
+
+- Next.js 14 (App Router) - Javascript
+- Tailwind CSS
+- Lucide Icons
+
+## Installing and Running Projects
+
+### Step 1: Clone Repository
+
+```bash
+git clone https://github.com/JonathanLim46/mia-app.git
+cd mia-app
+```
+
+### Step 2: Install Dependencies
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### Step 3: Running Development
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Step 4: Build for Production
 
-## Learn More
+```bash
+npm run build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Folder Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📦 project-root
+├── public/
+│ ├── images/ 
+│ └── favicon.ico
+├── app/ # Routing and the main page (Next.js App Router)
+│ ├── components/ # Components UI (Navbar, Footer, Card, dsb.)
+│ ├── constants/ # MSME data JSON file
+│ ├── global.css # CSS/Tailwind Global File
+│ ├── favicon.ico
+├── package.json
+├── tailwind.config.js
+├── next.config.mjs
+└── README.md
