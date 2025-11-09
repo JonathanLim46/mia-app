@@ -1,6 +1,6 @@
 # MIA - Web App UMKM Bogor
 
-A web application based on **Next.js 14** that aims to introduce and promote various **MSMEs (Micro, Small, and Medium Enterprises)** in Bogor.  This project was built with a **modern web development** approach using React, Tailwind CSS, and modular components.
+A web application based on **Next.js 16** that aims to introduce and promote various **MSMEs (Micro, Small, and Medium Enterprises)** in Bogor.  This project was built with a **modern web development** approach using React, Tailwind CSS, and modular components.
 
 ## Features
 
@@ -10,7 +10,7 @@ A web application based on **Next.js 14** that aims to introduce and promote var
 
 ## TechStack
 
-- Next.js 14 (App Router) - Javascript
+- Next.js 16 (App Router) - Javascript
 - Tailwind CSS
 - Lucide Icons
 
