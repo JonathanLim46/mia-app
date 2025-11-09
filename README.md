@@ -53,15 +53,14 @@ npm run start
 ## Folder Structure
 
 📦 project-root
-├── public/
-│ ├── images/ 
-│ └── favicon.ico
-├── app/ # Routing and the main page (Next.js App Router)
-│ ├── components/ # Components UI (Navbar, Footer, Card, dsb.)
-│ ├── constants/ # MSME data JSON file
-│ ├── global.css # CSS/Tailwind Global File
-│ ├── favicon.ico
-├── package.json
-├── tailwind.config.js
-├── next.config.mjs
-└── README.md
+- public/
+    - images/
+- app/ # Routing and the main page (Next.js App Router)
+    - components/ # Components UI (Navbar, Footer, Card, dsb.)
+    - constants/ # MSME data JSON file
+    - global.css # CSS/Tailwind Global File
+    - favicon.ico
+- package.json
+- tailwind.config.js
+- next.config.mjs
+- README.md
