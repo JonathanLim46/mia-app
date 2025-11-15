@@ -1,0 +1,967 @@
+[
+    {
+        "id": 1,
+        "nama": "Mie Ayam Bangka AB",
+        "kategori": "Makanan - Mie & Noodles",
+        "alamat": "Gandi Kos Bogor, Bogor Utara, Kota Bogor",
+        "deskripsi": "Restoran mie ayam legendaris di Bogor Utara dengan cita rasa khas Bangka yang gurih dan lezat. Menyediakan beragam varian mie ayam, kwetiaw, bihun, serta paket hemat.",
+        "kisah_umkm": "Mie Ayam Bangka AB dikenal di kawasan Bogor Utara karena mempertahankan resep autentik Bangka dan menjaga kualitas rasa selama bertahun-tahun.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sMie%20Ayam%20Bangka%20AB!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/mie_ayam_bangka_1.jpg",
+            "/images/mie_ayam_bangka_2.jpg",
+            "/images/mie_ayam_bangka_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Mie Ayam Polos",
+            "deskripsi": "Mie ayam khas Bangka tanpa tambahan bakso, disajikan dengan ayam berbumbu gurih.",
+            "harga": 15100,
+            "image": "/images/menu_mie_ayam_polos.jpg"
+            },
+            {
+            "nama": "Mie Ayam Bakso",
+            "deskripsi": "Mie ayam dengan tambahan bakso sapi kenyal, cocok untuk penggemar rasa klasik.",
+            "harga": 18300,
+            "image": "/images/menu_mie_ayam_bakso.jpg"
+            },
+            {
+            "nama": "Mie Ayam Baso Urat",
+            "deskripsi": "Mie ayam lezat dengan bakso urat besar dan kuah kaldu yang kuat.",
+            "harga": 25000,
+            "image": "/images/menu_mie_ayam_urat.jpg"
+            },
+            {
+            "nama": "Kwetiaw Ayam Polos",
+            "deskripsi": "Kwetiaw lembut dengan potongan ayam berbumbu khas Bangka.",
+            "harga": 13000,
+            "image": "/images/menu_kwetiaw_polos.jpg"
+            },
+            {
+            "nama": "Kwetiaw Ayam Baso",
+            "deskripsi": "Kwetiaw dengan ayam dan bakso, kuah ringan namun gurih.",
+            "harga": 16000,
+            "image": "/images/menu_kwetiaw_bakso.jpg"
+            },
+            {
+            "nama": "Bihun Ayam Polos",
+            "deskripsi": "Bihun halus dengan topping ayam suwir dan kuah kaldu bening.",
+            "harga": 15000,
+            "image": "/images/menu_bihun_polos.jpg"
+            },
+            {
+            "nama": "Bihun Ayam Bakso",
+            "deskripsi": "Bihun ayam dengan tambahan bakso sapi.",
+            "harga": 18000,
+            "image": "/images/menu_bihun_bakso.jpg"
+            },
+            {
+            "nama": "Es Jeruk",
+            "deskripsi": "Minuman segar dari perasan jeruk asli.",
+            "harga": 9000,
+            "image": "/images/menu_es_jeruk.jpg"
+            },
+            {
+            "nama": "Pangsit Goreng",
+            "deskripsi": "Pangsit goreng renyah cocok sebagai pelengkap mie ayam.",
+            "harga": 3000,
+            "image": "/images/menu_pangsit_goreng.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "09:00",
+            "tutup": "21:00"
+        }
+    },
+    {
+        "id": 2,
+        "nama": "Martabak Sangkerta Bantarjati",
+        "kategori": "Makanan",
+        "alamat": "Gandi Kos Bogor, Bogor Utara, Kota Bogor",
+        "deskripsi": "Martabak Sangkerta Bantarjati menyajikan berbagai pilihan martabak manis dan telur dengan cita rasa premium dan bahan berkualitas. Setiap adonan dibuat segar untuk menjaga rasa dan tekstur yang sempurna.",
+        "kisah_umkm": "Martabak Sangkerta Bantarjati dikenal sebagai salah satu martabak legendaris di Bogor Utara. Berdiri sejak beberapa tahun lalu, kedai ini mempertahankan resep tradisional dengan inovasi topping kekinian yang disukai semua kalangan.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sMartabak%20Sangkerta%20Bantarjati!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/martabak_sangkerta_1.jpg",
+            "/images/martabak_sangkerta_2.jpg",
+            "/images/martabak_sangkerta_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "3 Telor Ayam",
+            "deskripsi": "Martabak telur isi 3 butir telur ayam dan daging sapi cincang.",
+            "harga": 48800,
+            "image": "/images/menu_3_telor_ayam.jpg"
+            },
+            {
+            "nama": "2 Telor Ayam",
+            "deskripsi": "Martabak telur isi 2 butir telur ayam dan daging sapi cincang.",
+            "harga": 38000,
+            "image": "/images/menu_2_telor_ayam.jpg"
+            },
+            {
+            "nama": "Keju Kacang Coklat Susu",
+            "deskripsi": "Martabak manis kombinasi keju, kacang, coklat, dan susu. Bisa dibuat campur atau sebelah-sebelah.",
+            "harga": 44300,
+            "image": "/images/menu_keju_kacang_coklat_susu.jpg"
+            },
+            {
+            "nama": "Keju Wijen Coklat Susu",
+            "deskripsi": "Martabak manis dengan topping keju, wijen, coklat, dan susu.",
+            "harga": 44300,
+            "image": "/images/menu_keju_wijen_coklat_susu.jpg"
+            },
+            {
+            "nama": "Keju Spesial Coklat",
+            "deskripsi": "Martabak manis isi double keju dan coklat meses.",
+            "harga": 56600,
+            "image": "/images/menu_keju_spesial_coklat.jpg"
+            },
+            {
+            "nama": "Martabak Manis Coklat Susu",
+            "deskripsi": "Martabak manis klasik dengan isian coklat meses dan susu kental manis.",
+            "harga": 30000,
+            "image": "/images/menu_coklat_susu.jpg"
+            },
+            {
+            "nama": "Martabak Manis Kacang Susu",
+            "deskripsi": "Martabak manis dengan kacang tanah sangrai dan susu.",
+            "harga": 30000,
+            "image": "/images/menu_kacang_susu.jpg"
+            },
+            {
+            "nama": "Wijen Kacang Coklat Susu",
+            "deskripsi": "Martabak manis kombinasi wijen, kacang, coklat, dan susu.",
+            "harga": 36000,
+            "image": "/images/menu_wijen_kacang_coklat_susu.jpg"
+            },
+            {
+            "nama": "Pisang Coklat Susu",
+            "deskripsi": "Martabak manis isi potongan pisang segar, coklat, dan susu.",
+            "harga": 33000,
+            "image": "/images/menu_pisang_coklat_susu.jpg"
+            },
+            {
+            "nama": "Pisang Kacang Coklat Susu",
+            "deskripsi": "Martabak manis isi pisang, kacang, coklat, dan susu.",
+            "harga": 36000,
+            "image": "/images/menu_pisang_kacang_coklat_susu.jpg"
+            },
+            {
+            "nama": "Keju Spesial",
+            "deskripsi": "Martabak manis isi double keju untuk pecinta keju sejati.",
+            "harga": 50000,
+            "image": "/images/menu_keju_spesial.jpg"
+            },
+            {
+            "nama": "Keju Pisang Coklat Susu",
+            "deskripsi": "Martabak manis isi keju, pisang, coklat, dan susu.",
+            "harga": 45000,
+            "image": "/images/menu_keju_pisang_coklat_susu.jpg"
+            },
+            {
+            "nama": "4 Telor Ayam",
+            "deskripsi": "Martabak telur isi 4 butir telur ayam dan daging sapi cincang.",
+            "harga": 63000,
+            "image": "/images/menu_4_telor_ayam.jpg"
+            },
+            {
+            "nama": "5 Telor Ayam",
+            "deskripsi": "Martabak telur isi 5 butir telur ayam dan daging sapi cincang.",
+            "harga": 80000,
+            "image": "/images/menu_5_telor_ayam.jpg"
+            },
+            {
+            "nama": "3 Telor Bebek",
+            "deskripsi": "Martabak telur isi 3 butir telur bebek dan daging sapi cincang.",
+            "harga": 52000,
+            "image": "/images/menu_3_telor_bebek.jpg"
+            },
+            {
+            "nama": "5 Telor Bebek",
+            "deskripsi": "Martabak telur isi 5 butir telur bebek dan daging sapi cincang.",
+            "harga": 85000,
+            "image": "/images/menu_5_telor_bebek.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "16:00",
+            "tutup": "23:00"
+        }
+    },
+    {
+        "id": 3,
+        "nama": "Sate Tegal Laka-Laka",
+        "kategori": "Makanan",
+        "alamat": "Jl. Pandu Raya, Bogor Utara, Kota Bogor",
+        "deskripsi": "Sate Tegal Laka-Laka menawarkan hidangan khas Tegal seperti sate kambing, tongseng, dan gulai dengan cita rasa autentik. Semua menu disajikan segar dengan bumbu rempah pilihan dan daging berkualitas.",
+        "kisah_umkm": "Berdiri sebagai salah satu warung sate khas Tegal di Bogor, Sate Tegal Laka-Laka dikenal karena mempertahankan resep tradisional dan bahan-bahan segar yang diolah langsung setiap hari. Tempat ini menjadi favorit pencinta kuliner olahan kambing.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sSate%20Tegal%20Laka-Laka!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/sate_tegal_laka_1.jpg",
+            "/images/sate_tegal_laka_2.jpg",
+            "/images/sate_tegal_laka_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Sate Kambing Tanpa Lemak",
+            "deskripsi": "10 tusuk sate kambing tanpa lemak dengan bumbu kecap, potongan tomat, dan bawang merah.",
+            "harga": 100570,
+            "image": "/images/menu_sate_kambing_tanpa_lemak.jpg"
+            },
+            {
+            "nama": "Sate Ayam",
+            "deskripsi": "10 tusuk sate ayam dengan bumbu kacang khas Tegal.",
+            "harga": 56920,
+            "image": "/images/menu_sate_ayam.jpg"
+            },
+            {
+            "nama": "Sate Kambing",
+            "deskripsi": "10 tusuk sate kambing dengan bumbu kecap dan potongan tomat serta bawang merah.",
+            "harga": 89820,
+            "image": "/images/menu_sate_kambing.jpg"
+            },
+            {
+            "nama": "Tongseng Kambing",
+            "deskripsi": "Olahan daging kambing dimasak dengan kuah kental bumbu khas Tegal.",
+            "harga": 68310,
+            "image": "/images/menu_tongseng_kambing.jpg"
+            },
+            {
+            "nama": "Gulai Kambing",
+            "deskripsi": "Daging kambing dimasak dalam kuah santan gurih dan rempah tebal.",
+            "harga": 68310,
+            "image": "/images/menu_gulai_kambing.jpg"
+            },
+            {
+            "nama": "Sop Iga Tulang Kambing",
+            "deskripsi": "Sop segar berisi potongan iga kambing dengan kuah bening dan rempah.",
+            "harga": 36685,
+            "image": "/images/menu_sop_iga_kambing.jpg"
+            },
+            {
+            "nama": "Tengkleng Kambing",
+            "deskripsi": "Masakan khas Jawa Tengah berisi tulang kambing dengan bumbu gurih pedas.",
+            "harga": 44275,
+            "image": "/images/menu_tengkleng_kambing.jpg"
+            },
+            {
+            "nama": "Tongseng Ayam",
+            "deskripsi": "Tongseng ayam dengan kuah santan pedas dan potongan kol serta tomat.",
+            "harga": 53130,
+            "image": "/images/menu_tongseng_ayam.jpg"
+            },
+            {
+            "nama": "Nasi Goreng Kambing",
+            "deskripsi": "Nasi goreng dengan potongan daging kambing dan aroma rempah khas Tegal.",
+            "harga": 59455,
+            "image": "/images/menu_nasgor_kambing.jpg"
+            },
+            {
+            "nama": "Nasi Goreng Ayam",
+            "deskripsi": "Nasi goreng ayam dengan bumbu tradisional dan potongan ayam suwir.",
+            "harga": 41745,
+            "image": "/images/menu_nasgor_ayam.jpg"
+            },
+            {
+            "nama": "Es Jeruk",
+            "deskripsi": "Minuman segar dari perasan jeruk asli.",
+            "harga": 16445,
+            "image": "/images/menu_es_jeruk.jpg"
+            },
+            {
+            "nama": "Es Teh Manis",
+            "deskripsi": "Teh manis dingin yang menyegarkan.",
+            "harga": 9488,
+            "image": "/images/menu_es_teh_manis.jpg"
+            },
+            {
+            "nama": "Jeruk Panas",
+            "deskripsi": "Minuman hangat dari perasan jeruk segar.",
+            "harga": 15180,
+            "image": "/images/menu_jeruk_panas.jpg"
+            },
+            {
+            "nama": "Teh Tawar Panas",
+            "deskripsi": "Teh tawar hangat untuk menemani hidangan sate dan tongseng.",
+            "harga": 5692,
+            "image": "/images/menu_teh_tawar_panas.jpg"
+            },
+            {
+            "nama": "Nasi Putih",
+            "deskripsi": "Nasi putih pulen sebagai pelengkap hidangan utama.",
+            "harga": 9488,
+            "image": "/images/menu_nasi_putih.jpg"
+            },
+            {
+            "nama": "Kerupuk Putih",
+            "deskripsi": "Kerupuk renyah khas warung sate.",
+            "harga": 3795,
+            "image": "/images/menu_kerupuk_putih.jpg"
+            },
+            {
+            "nama": "Emping",
+            "deskripsi": "Emping melinjo goreng renyah sebagai pelengkap.",
+            "harga": 10120,
+            "image": "/images/menu_emping.jpg"
+            },
+            {
+            "nama": "Paket 1-A",
+            "deskripsi": "Sate kambing 5 tusuk, sop iga kambing, nasi, dan teh tawar panas.",
+            "harga": 92978,
+            "image": "/images/menu_paket_1a.jpg"
+            },
+            {
+            "nama": "Paket 2-B",
+            "deskripsi": "Sate kambing tanpa lemak 5 tusuk, tengkleng kambing, nasi, dan teh tawar panas.",
+            "harga": 105628,
+            "image": "/images/menu_paket_2b.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "22:00"
+        }
+    },
+    {
+        "id": 4,
+        "nama": "Kedai Soto Ibu Rahayu",
+        "kategori": "Makanan",
+        "alamat": "Jl. Pajajaran, Bogor Tengah, Kota Bogor",
+        "deskripsi": "Kedai Soto Ibu Rahayu menyajikan berbagai varian soto khas Nusantara, terutama Soto Bogor dan Soto Mie yang terkenal dengan cita rasa gurih dan segar. Dikenal karena kuahnya yang kaya rempah dan bahan segar pilihan.",
+        "kisah_umkm": "Berdiri sejak puluhan tahun lalu, Kedai Soto Ibu Rahayu mempertahankan resep keluarga yang diwariskan secara turun-temurun. Rasa khas kuah kuning dan bumbu rempahnya menjadikan kedai ini salah satu kuliner soto favorit warga Bogor.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sKedai%20Soto%20Ibu%20Rahayu!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/soto_ibu_rahayu_1.jpg",
+            "/images/soto_ibu_rahayu_2.jpg",
+            "/images/soto_ibu_rahayu_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Soto Bogor",
+            "deskripsi": "Soto kuning khas Bogor berisi daging, kikil, dan paru dengan kuah gurih.",
+            "harga": 42900,
+            "image": "/images/menu_soto_bogor.jpg"
+            },
+            {
+            "nama": "Soto Rica",
+            "deskripsi": "Daging dimasak dengan bumbu pedas rica-rica disajikan dengan kuah bening atau santan.",
+            "harga": 42900,
+            "image": "/images/menu_soto_rica.jpg"
+            },
+            {
+            "nama": "Soto Goreng",
+            "deskripsi": "Soto bening disajikan dengan daging, kikil, dan paru khas Bogor.",
+            "harga": 42900,
+            "image": "/images/menu_soto_goreng.jpg"
+            },
+            {
+            "nama": "Soto Oseng",
+            "deskripsi": "Daging oseng berbumbu istimewa disajikan dengan pilihan kuah bening atau santan.",
+            "harga": 42900,
+            "image": "/images/menu_soto_oseng.jpg"
+            },
+            {
+            "nama": "Soto Mie",
+            "deskripsi": "Soto mie khas Bogor dengan daging sapi dan risol sebagai pelengkap.",
+            "harga": 33000,
+            "image": "/images/menu_soto_mie.jpg"
+            },
+            {
+            "nama": "Soto Ayam Oseng",
+            "deskripsi": "Soto ayam khas dengan daging ayam suwir dan bumbu oseng gurih.",
+            "harga": 28600,
+            "image": "/images/menu_soto_ayam_oseng.jpg"
+            },
+            {
+            "nama": "Soto Ayam Rica",
+            "deskripsi": "Soto ayam pedas dengan bumbu rica dan pilihan kuah bening atau santan.",
+            "harga": 28600,
+            "image": "/images/menu_soto_ayam_rica.jpg"
+            },
+            {
+            "nama": "Perkedel",
+            "deskripsi": "Perkedel kentang goreng lembut di dalam dan renyah di luar.",
+            "harga": 5500,
+            "image": "/images/menu_perkedel.jpg"
+            },
+            {
+            "nama": "Nasi",
+            "deskripsi": "Nasi putih pulen untuk pelengkap soto atau lauk lainnya.",
+            "harga": 6600,
+            "image": "/images/menu_nasi.jpg"
+            },
+            {
+            "nama": "1/2 Nasi",
+            "deskripsi": "Setengah porsi nasi putih untuk porsi kecil.",
+            "harga": 4400,
+            "image": "/images/menu_setengah_nasi.jpg"
+            },
+            {
+            "nama": "Ayam Bakar + Nasi Tutug Oncom",
+            "deskripsi": "Ayam bakar dengan nasi tutug oncom khas Sunda.",
+            "harga": 49500,
+            "image": "/images/menu_ayam_bakar_oncom.jpg"
+            },
+            {
+            "nama": "Ayam Kremes + Nasi Kecombrang",
+            "deskripsi": "Ayam kremes renyah disajikan dengan nasi kecombrang wangi.",
+            "harga": 52800,
+            "image": "/images/menu_ayam_kremes_kecombrang.jpg"
+            },
+            {
+            "nama": "Pisang Goreng Madu",
+            "deskripsi": "Pisang goreng dengan balutan madu yang manis dan renyah.",
+            "harga": 29700,
+            "image": "/images/menu_pisang_goreng_madu.jpg"
+            },
+            {
+            "nama": "Tempe Mendoan",
+            "deskripsi": "Tempe tipis digoreng setengah matang dengan tepung berbumbu.",
+            "harga": 20900,
+            "image": "/images/menu_tempe_mendoan.jpg"
+            },
+            {
+            "nama": "Lychee Ice Tea",
+            "deskripsi": "Teh dingin rasa leci yang menyegarkan.",
+            "harga": 27500,
+            "image": "/images/menu_lychee_ice_tea.jpg"
+            },
+            {
+            "nama": "Juice Alpukat",
+            "deskripsi": "Jus alpukat segar tanpa pemanis buatan.",
+            "harga": 27500,
+            "image": "/images/menu_jus_alpukat.jpg"
+            },
+            {
+            "nama": "Es Kelapa Muda",
+            "deskripsi": "Es kelapa muda segar untuk pelepas dahaga.",
+            "harga": 27500,
+            "image": "/images/menu_es_kelapa_muda.jpg"
+            },
+            {
+            "nama": "Es Jeruk",
+            "deskripsi": "Es jeruk segar dari perasan jeruk asli.",
+            "harga": 25300,
+            "image": "/images/menu_es_jeruk.jpg"
+            },
+            {
+            "nama": "Es Teh Manis",
+            "deskripsi": "Teh manis dingin yang menyegarkan.",
+            "harga": 6600,
+            "image": "/images/menu_es_teh_manis.jpg"
+            },
+            {
+            "nama": "Teh Tawar",
+            "deskripsi": "Teh tawar hangat tanpa gula.",
+            "harga": 4400,
+            "image": "/images/menu_teh_tawar.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "08:00",
+            "tutup": "21:00"
+        }
+    },
+    {
+        "id": 5,
+        "nama": "Seblak Teh Nunung",
+        "kategori": "Makanan",
+        "alamat": "Jl. Palayu 1, Bogor Utara, Kota Bogor",
+        "deskripsi": "Seblak Teh Nunung adalah kedai jajanan khas Bandung yang menyajikan berbagai varian seblak dengan cita rasa pedas gurih. Setiap pesanan dibuat langsung dengan bahan segar dan bumbu kencur khas Teh Nunung.",
+        "kisah_umkm": "Bermula dari usaha rumahan, Seblak Teh Nunung kini menjadi salah satu destinasi kuliner favorit di kawasan Palayu Bogor. Resep khas turun-temurun dan inovasi topping yang beragam menjadikan kedai ini digemari oleh kalangan muda dan keluarga.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sSeblak%20Teh%20Nunung!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/seblak_teh_nunung_1.jpg",
+            "/images/seblak_teh_nunung_2.jpg",
+            "/images/seblak_teh_nunung_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Seblak Original",
+            "deskripsi": "Seblak khas Teh Nunung dengan bumbu kencur, cabai, kerupuk kuning, makaroni, telur, dan sayur.",
+            "harga": 13000,
+            "image": "/images/menu_seblak_original.jpg"
+            },
+            {
+            "nama": "Seblak Baso",
+            "deskripsi": "Seblak dengan tambahan bakso sapi dan bumbu kencur pedas.",
+            "harga": 15000,
+            "image": "/images/menu_seblak_baso.jpg"
+            },
+            {
+            "nama": "Seblak Sosis",
+            "deskripsi": "Seblak pedas dengan topping sosis dan telur.",
+            "harga": 15000,
+            "image": "/images/menu_seblak_sosis.jpg"
+            },
+            {
+            "nama": "Seblak Ceker",
+            "deskripsi": "Seblak dengan ceker ayam empuk dan bumbu cabai kencur.",
+            "harga": 16000,
+            "image": "/images/menu_seblak_ceker.jpg"
+            },
+            {
+            "nama": "Seblak Tulang",
+            "deskripsi": "Seblak dengan tulang ayam, makaroni, dan kerupuk kuning.",
+            "harga": 16000,
+            "image": "/images/menu_seblak_tulang.jpg"
+            },
+            {
+            "nama": "Seblak Cuangki Lidah",
+            "deskripsi": "Seblak pedas dengan cuangki lidah dan berbagai macam kerupuk.",
+            "harga": 15000,
+            "image": "/images/menu_seblak_cuangki_lidah.jpg"
+            },
+            {
+            "nama": "Seblak Baso Ceker",
+            "deskripsi": "Seblak kombinasi baso dan ceker dengan cita rasa pedas gurih.",
+            "harga": 19000,
+            "image": "/images/menu_seblak_baso_ceker.jpg"
+            },
+            {
+            "nama": "Seblak Sosis Baso",
+            "deskripsi": "Seblak dengan topping sosis dan bakso sapi.",
+            "harga": 19000,
+            "image": "/images/menu_seblak_sosis_baso.jpg"
+            },
+            {
+            "nama": "Seblak Sosis Tulang",
+            "deskripsi": "Seblak kombinasi sosis dan tulang ayam dengan bumbu kencur khas.",
+            "harga": 19000,
+            "image": "/images/menu_seblak_sosis_tulang.jpg"
+            },
+            {
+            "nama": "Seblak Somay Kering",
+            "deskripsi": "Seblak kering dengan somay goreng dan bumbu cabai pedas.",
+            "harga": 15000,
+            "image": "/images/menu_seblak_somay_kering.jpg"
+            },
+            {
+            "nama": "Seblak Komplit",
+            "deskripsi": "Seblak lengkap dengan topping bakso, sosis, tulang, ceker, mie, kwetiau, cuanki lidah, dan somay kering.",
+            "harga": 30000,
+            "image": "/images/menu_seblak_komplit.jpg"
+            },
+            {
+            "nama": "Ceker Mercon Kuah",
+            "deskripsi": "Ceker ayam pedas khas mercon dengan kuah gurih cabai.",
+            "harga": 19000,
+            "image": "/images/menu_ceker_mercon.jpg"
+            },
+            {
+            "nama": "Mie Nyeumeuk",
+            "deskripsi": "Mie pedas dengan bakso, telur, kerupuk, dan sayur.",
+            "harga": 15000,
+            "image": "/images/menu_mie_nyeumeuk.jpg"
+            },
+            {
+            "nama": "Kwetiau Goreng",
+            "deskripsi": "Kwetiau goreng dengan bakso, telur, dan sayur segar.",
+            "harga": 17000,
+            "image": "/images/menu_kwetiau_goreng.jpg"
+            },
+            {
+            "nama": "Pangsit Chili Oil",
+            "deskripsi": "Pangsit isi ayam disajikan dengan chili oil khas Teh Nunung.",
+            "harga": 17000,
+            "image": "/images/menu_pangsit_chili_oil.jpg"
+            },
+            {
+            "nama": "Pangsit Chili Oil Kuah",
+            "deskripsi": "Pangsit ayam dengan chili oil disajikan bersama kuah gurih.",
+            "harga": 17000,
+            "image": "/images/menu_pangsit_chili_oil_kuah.jpg"
+            },
+            {
+            "nama": "Sempol Ayam",
+            "deskripsi": "Sempol ayam isi 7 tusuk, gurih dan renyah.",
+            "harga": 10000,
+            "image": "/images/menu_sempol_ayam.jpg"
+            },
+            {
+            "nama": "Pentol Baso Urat Besar",
+            "deskripsi": "Bakso urat besar disajikan dengan bakso kecil dan kuah pedas.",
+            "harga": 15000,
+            "image": "/images/menu_pentol_baso_urat.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "22:00"
+        }
+    },
+    {
+        "id": 6,
+        "nama": "Es Teh Mbah'e Solo",
+        "kategori": "Minuman",
+        "alamat": "BGR UTR, Bogor Utara, Kota Bogor",
+        "deskripsi": "Es Teh Mbah'e Solo menyajikan berbagai varian minuman segar khas Solo dengan rasa autentik dan harga terjangkau. Menu andalannya meliputi es teh melati, es kopi gula aren, hingga bubur kacang hijau.",
+        "kisah_umkm": "Terinspirasi dari resep turun-temurun keluarga di Solo, Es Teh Mbah'e Solo hadir untuk membawa cita rasa tradisional khas Jawa ke Bogor. Dengan bahan alami dan penyajian sederhana, kedai ini menjadi favorit untuk penikmat minuman segar.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sEs%20Teh%20Mbah'e%20Solo!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/es_teh_mbahe_solo_1.jpg",
+            "/images/es_teh_mbahe_solo_2.jpg",
+            "/images/es_teh_mbahe_solo_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Es Thai Tea",
+            "deskripsi": "Minuman teh khas Thailand dengan rasa manis dan segar.",
+            "harga": 18000,
+            "image": "/images/menu_es_thai_tea.jpg"
+            },
+            {
+            "nama": "Es Green Tea",
+            "deskripsi": "Es daun teh hijau segar khas Mbah’e Solo.",
+            "harga": 10500,
+            "image": "/images/menu_es_green_tea.jpg"
+            },
+            {
+            "nama": "Es Coklat",
+            "deskripsi": "Minuman coklat dingin dengan rasa manis pas dan menyegarkan.",
+            "harga": 10500,
+            "image": "/images/menu_es_coklat.jpg"
+            },
+            {
+            "nama": "Es Cappucino Cup",
+            "deskripsi": "Es cappucino siap saji yang nikmat dan creamy.",
+            "harga": 8000,
+            "image": "/images/menu_es_cappucino_cup.jpg"
+            },
+            {
+            "nama": "Es Kopi Gula Aren",
+            "deskripsi": "Kopi dingin berpadu dengan manis alami gula aren.",
+            "harga": 18000,
+            "image": "/images/menu_es_kopi_gula_aren.jpg"
+            },
+            {
+            "nama": "Es Teh Kampul",
+            "deskripsi": "Es teh segar dengan tambahan jeruk yang menyegarkan.",
+            "harga": 9500,
+            "image": "/images/menu_es_teh_kampul.jpg"
+            },
+            {
+            "nama": "Es Jeruk",
+            "deskripsi": "Es jeruk segar dari perasan jeruk asli.",
+            "harga": 8000,
+            "image": "/images/menu_es_jeruk.jpg"
+            },
+            {
+            "nama": "Es Teh Solo Mbah",
+            "deskripsi": "Es teh khas Solo dengan aroma melati yang harum.",
+            "harga": 6500,
+            "image": "/images/menu_es_teh_solo_mbah.jpg"
+            },
+            {
+            "nama": "Bubur Campur Kacang Hijau Ketan Hitam",
+            "deskripsi": "Bubur kacang hijau dan ketan hitam dengan kuah santan gurih.",
+            "harga": 10500,
+            "image": "/images/menu_bubur_kacang_ketan.jpg"
+            },
+            {
+            "nama": "Bubur Ketan Hitam",
+            "deskripsi": "Bubur ketan hitam lembut dengan kuah santan manis.",
+            "harga": 10500,
+            "image": "/images/menu_bubur_ketan_hitam.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "21:00"
+        }
+    },
+    {
+        "id": 7,
+        "nama": "King Juice FARHAN 2",
+        "kategori": "Minuman",
+        "alamat": "Griya Malabar, Malabar Ujung, Bogor Utara, Kota Bogor",
+        "deskripsi": "Gerai minuman dan buah segar dengan menu jus, smoothies, sop buah, salad buah, serta varian mix-in seperti Yakult, yogurt, Milo, dan Oreo.",
+        "kisah_umkm": "Dimulai dari usaha rumahan, King Juice FARHAN 2 berkembang dengan fokus pada pilihan buah segar, porsi melimpah, dan harga terjangkau untuk semua kalangan.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sKing%20Juice%20FARHAN%202!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "galeri": [
+            "/images/king_juice_farhan2_1.jpg",
+            "/images/king_juice_farhan2_2.jpg",
+            "/images/king_juice_farhan2_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Jus Jambu Merah",
+            "deskripsi": "Jus jambu merah segar dengan gula dan susu kental manis.",
+            "harga": 10000,
+            "image": "/images/menu_jus_jambu_merah.jpg"
+            },
+            {
+            "nama": "Jus Strawberry Premium",
+            "deskripsi": "Jus strawberry manis segar, pas untuk semua waktu.",
+            "harga": 15000,
+            "image": "/images/menu_jus_strawberry.jpg"
+            },
+            {
+            "nama": "Jus Alpukat Premium",
+            "deskripsi": "Jus alpukat kental dengan sentuhan gula dan SKM.",
+            "harga": 15000,
+            "image": "/images/menu_jus_alpukat.jpg"
+            },
+            {
+            "nama": "SOP Buah Special / Es Buah",
+            "deskripsi": "Campuran aneka buah segar dengan kuah manis dingin.",
+            "harga": 15200,
+            "image": "/images/menu_sop_buah_special.jpg"
+            },
+            {
+            "nama": "SOP Buah Kaldu Alpukat / Es Buah",
+            "deskripsi": "Sop buah dengan tambahan kaldu alpukat yang creamy.",
+            "harga": 23800,
+            "image": "/images/menu_sop_buah_kaldu_alpukat.jpg"
+            },
+            {
+            "nama": "SMOOTHIES Mangga Thai Monster Special",
+            "deskripsi": "Smoothies mangga dengan whipped cream, keju, dan potongan buah.",
+            "harga": 23800,
+            "image": "/images/menu_smoothies_mangga_monster.jpg"
+            },
+            {
+            "nama": "SMOOTHIES Alpukat Monster Special",
+            "deskripsi": "Smoothies alpukat dengan whipped cream, keju, dan potongan buah.",
+            "harga": 23800,
+            "image": "/images/menu_smoothies_alpukat_monster.jpg"
+            },
+            {
+            "nama": "SMOOTHIES Strawberry Monster Special",
+            "deskripsi": "Smoothies strawberry creamy dengan topping lengkap.",
+            "harga": 23800,
+            "image": "/images/menu_smoothies_strawberry_monster.jpg"
+            },
+            {
+            "nama": "SMOOTHIES Naga Merah Monster",
+            "deskripsi": "Smoothies naga merah dengan cream, keju, dan potongan buah.",
+            "harga": 23800,
+            "image": "/images/menu_smoothies_naga_monster.jpg"
+            },
+            {
+            "nama": "King Juice Alpukat Monster Full Potongan Buah",
+            "deskripsi": "Jus alpukat dengan whipped cream dan potongan buah melimpah.",
+            "harga": 22000,
+            "image": "/images/menu_king_alpukat_monster.jpg"
+            },
+            {
+            "nama": "King Jus Mangga XL Monster Full Topping",
+            "deskripsi": "Jus mangga ukuran XL dengan topping lengkap.",
+            "harga": 22000,
+            "image": "/images/menu_king_mangga_xl.jpg"
+            },
+            {
+            "nama": "King Jus Strawberry XL Monster Full Topping",
+            "deskripsi": "Jus strawberry ukuran XL dengan topping komplet.",
+            "harga": 22000,
+            "image": "/images/menu_king_strawberry_xl.jpg"
+            },
+            {
+            "nama": "King Juice Naga XL Full Topping",
+            "deskripsi": "Jus buah naga ukuran XL dengan whipped cream dan topping.",
+            "harga": 20000,
+            "image": "/images/menu_king_naga_xl.jpg"
+            },
+            {
+            "nama": "2 King Juice Mangga XL Full Topping",
+            "deskripsi": "Paket 2 jus mangga XL full topping.",
+            "harga": 43000,
+            "image": "/images/menu_paket_2_king_mangga_xl.jpg"
+            },
+            {
+            "nama": "Jus Jeruk Peras Premium",
+            "deskripsi": "Jeruk peras segar dengan es, rasa natural.",
+            "harga": 13000,
+            "image": "/images/menu_jus_jeruk_peras.jpg"
+            },
+            {
+            "nama": "Jus Lemon Premium",
+            "deskripsi": "Perasan lemon segar dengan es, segar dan asam manis.",
+            "harga": 14000,
+            "image": "/images/menu_jus_lemon.jpg"
+            },
+            {
+            "nama": "Jus Wortel Premium",
+            "deskripsi": "Jus wortel segar, bisa dipadukan dengan susu sesuai selera.",
+            "harga": 13000,
+            "image": "/images/menu_jus_wortel.jpg"
+            },
+            {
+            "nama": "Es Milo Special",
+            "deskripsi": "Minuman Milo dingin, manis dan menyegarkan.",
+            "harga": 10000,
+            "image": "/images/menu_es_milo.jpg"
+            },
+            {
+            "nama": "Salad Buah Keju Brutal 400ml",
+            "deskripsi": "Campuran aneka buah, SKM, keju, dan mayo ukuran 400ml.",
+            "harga": 16000,
+            "image": "/images/menu_salad_buah_400.jpg"
+            },
+            {
+            "nama": "Salad Buah Keju Brutal 500ml",
+            "deskripsi": "Salad buah size 500ml dengan keju dan mayo.",
+            "harga": 30000,
+            "image": "/images/menu_salad_buah_500.jpg"
+            },
+            {
+            "nama": "Salad Buah Keju Brutal 750ml",
+            "deskripsi": "Salad buah size 750ml, topping melimpah.",
+            "harga": 37000,
+            "image": "/images/menu_salad_buah_750.jpg"
+            },
+            {
+            "nama": "Salad Buah Monster Keju Brutal 1000ml",
+            "deskripsi": "Salad buah 1 liter dengan keju dan mayo super banyak.",
+            "harga": 50000,
+            "image": "/images/menu_salad_buah_1000.jpg"
+            },
+            {
+            "nama": "Jus Alpukat + Yakult",
+            "deskripsi": "Jus alpukat dipadukan dengan Yakult yang segar.",
+            "harga": 17000,
+            "image": "/images/menu_jus_alpukat_yakult.jpg"
+            },
+            {
+            "nama": "Jus Mangga + Yakult",
+            "deskripsi": "Jus mangga segar dengan Yakult.",
+            "harga": 17000,
+            "image": "/images/menu_jus_mangga_yakult.jpg"
+            },
+            {
+            "nama": "Jus Alpukat + Yogurt",
+            "deskripsi": "Jus alpukat creamy dengan campuran yogurt.",
+            "harga": 17000,
+            "image": "/images/menu_jus_alpukat_yogurt.jpg"
+            },
+            {
+            "nama": "Jus Strawberry + Yogurt",
+            "deskripsi": "Strawberry segar berpadu yogurt, asam manis seimbang.",
+            "harga": 17000,
+            "image": "/images/menu_jus_strawberry_yogurt.jpg"
+            },
+            {
+            "nama": "Alpukat + Milo",
+            "deskripsi": "Jus alpukat dipadukan Milo favorit.",
+            "harga": 17000,
+            "image": "/images/menu_alpukat_milo.jpg"
+            },
+            {
+            "nama": "Alpukat Dancow Premium",
+            "deskripsi": "Jus alpukat dengan susu bubuk Dancow.",
+            "harga": 20000,
+            "image": "/images/menu_alpukat_dancow.jpg"
+            },
+            {
+            "nama": "Jus Pisang + Oreo",
+            "deskripsi": "Jus pisang manis legit dengan taburan Oreo.",
+            "harga": 17000,
+            "image": "/images/menu_pisang_oreo.jpg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "22:00"
+        }
+    },
+    {
+        "id": 8,
+        "nama": "Es Milky Creamy",
+        "kategori": "Minuman",
+        "alamat": "Bantar Jati, Bogor Utara, Kota Bogor",
+        "deskripsi": "Es Milky Creamy menyajikan berbagai varian minuman susu segar berpadu dengan rasa unik seperti matcha, taro, red velvet, dan coklat. Dikenal karena rasa creamy yang lembut dan segar di setiap tegukan.",
+        "kisah_umkm": "Es Milky Creamy berawal dari ide sederhana untuk menghadirkan minuman susu kekinian yang terjangkau bagi semua kalangan. Dengan resep racikan sendiri, usaha ini berkembang menjadi salah satu minuman favorit anak muda di kawasan Bantar Jati.",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.2292573669947!2d106.8105599605862!3d-6.581008317703661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c42ea96b12a3%3A0xbc453e2474ab2799!2sEs%20Milky%20Creamy!5e0!3m2!1sid!2sid!4v1762868112133!5m2!1sid!2sid",
+        "foto_depan": "/images/es_milky_creamy/pp.jpeg",
+        "galeri": [
+            "/images/es_milky_creamy_1.jpg",
+            "/images/es_milky_creamy_2.jpg",
+            "/images/es_milky_creamy_3.jpg"
+        ],
+        "menu": [
+            {
+            "nama": "Creamy Greentea",
+            "deskripsi": "Perpaduan matcha dan susu full cream yang nikmat dan menyegarkan.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/9.jpeg"
+            },
+            {
+            "nama": "Avocado Milky",
+            "deskripsi": "Perpaduan alpukat segar dan susu full cream yang lembut.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/2.jpeg"
+            },
+            {
+            "nama": "Chocolate Milky",
+            "deskripsi": "Campuran coklat kental dan susu creamy dengan rasa manis seimbang.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/8.jpeg"
+            },
+            {
+            "nama": "Bubble Gum Milky",
+            "deskripsi": "Minuman susu dengan rasa bubble gum yang unik dan manis.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/6.jpeg"
+            },
+            {
+            "nama": "Red Velvet Milky",
+            "deskripsi": "Rasa red velvet berpadu dengan susu creamy memberikan sensasi segar.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/11.jpeg"
+            },
+            {
+            "nama": "Taro Milky",
+            "deskripsi": "Perpaduan sempurna antara rasa taro dan susu full cream yang lembut.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/12.jpeg"
+            },
+            {
+            "nama": "Manggo Milky",
+            "deskripsi": "Minuman segar dari mangga dan susu creamy yang nikmat.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/3.jpeg"
+            },
+            {
+            "nama": "Blue Curacao",
+            "deskripsi": "Perpaduan soda dan sirup curacao yang segar.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/5.jpeg"
+            },
+            {
+            "nama": "Blue Ocean",
+            "deskripsi": "Campuran orange, soda, dan sirup curacao memberikan sensasi menyegarkan.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/9.jpeg"
+            },
+            {
+            "nama": "Manggo Ocean",
+            "deskripsi": "Perpaduan mangga, soda, dan selasih yang menyegarkan.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/1.jpeg"
+            },
+            {
+            "nama": "Butterfly Lemon Soda",
+            "deskripsi": "Perpaduan butterfly pea tea, soda, dan lemon yang unik dan segar.",
+            "harga": 17500,
+            "image": "/images/es_milky_creamy/10.jpeg"
+            },
+            {
+            "nama": "Pink Lady",
+            "deskripsi": "Campuran soda, lemon, dan rosemary yang harum dan segar.",
+            "harga": 14500,
+            "image": "/images/es_milky_creamy/7.jpeg"
+            }
+        ],
+        "jam_operasional": {
+            "buka": "10:00",
+            "tutup": "21:00"
+        }
+    }
+
+
+
+
+
+
+]

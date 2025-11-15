@@ -5,15 +5,16 @@ import SearchBar from "./SearchBar";
 import CategoryFilter from "./CategoryFilter";
 import UMKMCard from "./UMKMCard";
 
-import data from "../constants/data.json";
+import data from "../constants/dataUMKM.json";
 
 function UMKMDiscovery() {
 
     const [onSearch, setOnSearch] = useState("");
     const [category, setCategory] = useState("Semua Kategori");
 
+    const q = onSearch.toLowerCase().trim();
     const dataUMKM = data.filter((item) => {
-        const dataBySearch = item.nama.toLowerCase().includes(onSearch)
+        const dataBySearch = item.nama.toLowerCase().includes(q)
         const dataByCategory = category === "Semua Kategori" || item.kategori === category;
         return dataByCategory && dataBySearch;
     })
@@ -32,12 +33,14 @@ function UMKMDiscovery() {
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-8 mt-8">
                     {dataUMKM.map((item, index) => (
                         <UMKMCard
-                            key={index}
+                            key={item.id}
+                            id={item.id}
+                            photo={item.foto_depan}
                             category={item.kategori}
                             title={item.nama}
                             description={item.deskripsi}
                             rating={item.rating}
-                            city={item.lokasi.kota}
+                            city={item.alamat}
                             time={item.jam_operasional}
                         />
                     ))}
